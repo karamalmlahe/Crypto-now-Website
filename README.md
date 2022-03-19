@@ -1,4 +1,4 @@
-# crypto-now
+# Crypto-now-Website
 
 ## Project setup
 ```
